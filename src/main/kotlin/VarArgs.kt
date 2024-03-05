@@ -1,4 +1,4 @@
-package funcoes
+package kotlin
 
 fun main(args: Array<String>){
 	for(n in ordenar (38, 3, 456, 8, 51, 1, 88, 73)) {
