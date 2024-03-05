@@ -1,4 +1,4 @@
-package funcoes
+package kotlin
 
 incline fun transacao(funcao: () -> Unit) {
 	println("abrindo transação...")
