@@ -1,4 +1,4 @@
-package funcoes 
+package kotlin 
 
 incline fun <T> executarComlog(nomeFuncao: String, funcao: () -> T): T {
 	println("Entrando no método $nomeFuncao...")
